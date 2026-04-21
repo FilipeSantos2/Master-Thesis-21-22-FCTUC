@@ -1,1 +1,1 @@
-# Master Thesis 21/22 (FCTUC)
+# Master's Thesis 21/22 (FCTUC)
